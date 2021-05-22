@@ -1,0 +1,6 @@
+#!/bin/bash
+while read messag
+e
+do
+  echo $message
+done < /etc/apt/sources.list

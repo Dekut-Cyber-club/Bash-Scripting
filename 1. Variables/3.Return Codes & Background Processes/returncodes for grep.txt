@@ -1,0 +1,7 @@
+if return code==0; then
+	echo "Successful"
+if return code==1; then
+	echo "Pattern no found"
+if return code==2;then
+	echo "No such file or directory"
+	
